@@ -1,0 +1,5 @@
+<root>
+    <item name='com.microsoft.windowsazure.mobileservices.MobileServiceClient'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
